@@ -12,7 +12,11 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/4ba2f4b7f6a77afba0fe17c3d45a3c92.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+
+
+
 
 ### 🚀 About Me:
 - 🔥 I'm a **Full Stack Developer** with a deep passion for building web applications.
