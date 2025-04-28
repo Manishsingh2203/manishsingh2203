@@ -13,8 +13,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Crafting+smart+web+apps;Passionate+about+coding+%F0%9F%92%BB;MERN+Stack+Specialist;Always+learning+and+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Crafting+smart+web+apps;Passionate+about+coding+%F0%9F%92%BB;MERN+Stack+Specialist;Always+learning+and+growing" alt="Typing SVG" />
 </div>
+
+
 
 <br/>
 
