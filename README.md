@@ -14,10 +14,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-
-
-
-
 ### 🚀 About Me:
 - 🔥 I'm a **Full Stack Developer** with a deep passion for building web applications.
 - 🎯 Always striving to learn **new technologies** and **enhance skills**.
@@ -72,6 +68,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishsingh2203&layout=compact&theme=onedark&hide_border=true&border_radius=12" alt="Top Languages" />
 </p>
+
+<br/>
+
+---
+
+### 🐍 Contribution Snake:
+
+<div align="center">
+  <img src="https://github.com/manishsingh2203/manishsingh2203/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 
 <br/>
 
