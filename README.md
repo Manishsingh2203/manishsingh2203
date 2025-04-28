@@ -1,8 +1,14 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7g/giphy.gif" width="35" alt="wave"> I'm Manish Singh
-</h1>
+<h1 align="center">Hi , I'm Manish Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center" style="color:#38BDF8;">🚀 Full Stack MERN Developer from India 🚀</h3>
+
+
+
+
+<br>
+
+
+<h3 align="center" style="color:#38BDF8;"> Full Stack MERN Developer from India!
+</h3>
 
 <br/>
 
@@ -14,16 +20,16 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-### 🚀 About Me:
-- 🔥 I'm a **Full Stack Developer** with a deep passion for building web applications.
-- 🎯 Always striving to learn **new technologies** and **enhance skills**.
-- 💻 Enthusiastic about **problem-solving** and writing **clean, efficient code**.
+About Me:
+-  I'm a **Full Stack Developer** with a deep passion for building web applications.
+-  Always striving to learn **new technologies** and **enhance skills**.
+-  Enthusiastic about **problem-solving** and writing **clean, efficient code**.
 
 <br/>
 
 ---
 
-### 📫 Let's Connect:
+ Let's Connect:
 
 <p align="center">
   <a href="https://linkedin.com/in/manish-singh" target="_blank">
@@ -58,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+ GitHub Stats:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishsingh2203&show_icons=true&theme=onedark&hide_border=true&border_radius=12" alt="GitHub Stats" />
@@ -73,17 +79,7 @@
 
 ---
 
-### 🐍 Contribution Snake:
-
-<div align="center">
-  <img src="https://github.com/manishsingh2203/manishsingh2203/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
-<br/>
-
----
-
-### ⚡ Fun Fact:
+ Fun Fact:
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Coffee+%2B+Code+=+Magic+%E2%98%95;Always+coding+with+a+smile+%F0%9F%98%8A" alt="Fun Fact Typing" />
@@ -93,7 +89,7 @@
 
 ---
 
-### ✨ Visitor Count:
+ Visitor Count:
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/manishsingh2203/count.svg" alt="Visitor Count" />
@@ -103,6 +99,6 @@
 
 ---
 
-> _"Stay hungry, stay foolish." — **Steve Jobs**_
+> _"The only way to do great work is to love what you do."  — Steve Jobs_
 
 ---
