@@ -19,8 +19,8 @@
 
 
 <br/>
+<img align="right";-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="351" height="310">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 About Me:
 -  I'm a **Full Stack Developer** with a deep passion for building web applications.
