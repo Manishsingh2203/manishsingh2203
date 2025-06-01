@@ -7,13 +7,13 @@
 <br>
 
 
-<h3 align="center" style="color:#38BDF8;"> Full Stack MERN Developer from India!
+<h3 align="center" style="color:#00BFFF;"> Full Stack MERN Developer from India!
 </h3>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Crafting+smart+web+apps;Passionate+about+coding+%F0%9F%92%BB;MERN+Stack+Specialist;Always+learning+and+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Crafting+smart+web+apps;Passionate+about+coding+%F0%9F%92%BB;MERN+Stack+Specialist;Always+learning+and+growing" alt="Typing SVG" />
 </div>
 
 
@@ -35,24 +35,25 @@ About Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-singh-08oo44" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="81" height="81">
   </a>
   <a href="https://www.facebook.com/share/19j45P5dsL/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="81" height="81">
   </a>
   <a href="https://instagram.com/_manishsinghh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="81" height="81">
   </a>
-  <a href="mailto:manishsinghbst0322@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+ <a href="https://x.com/_ManishSingh01?t=Fep6ND2ltJLNfK3gn8-UdQ&s=09" target="_blank">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="81" height="81">
+</a>
+
 </p>
 
 <br/>
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+ Tech Stack & Tools:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header&text=Languages%20and%20Tools&fontSize=30&fontColor=ffffff" alt="Languages and Tools Banner" />
@@ -84,7 +85,7 @@ About Me:
  Fun Fact:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Coffee+%2B+Code+=+Magic+%E2%98%95;Always+coding+with+a+smile+%F0%9F%98%8A" alt="Fun Fact Typing" />
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="234">
 </div>
 
 <br/>
